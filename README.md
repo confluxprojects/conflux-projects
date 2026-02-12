@@ -13,13 +13,15 @@
 
 Conflux Projects is a cloud-native technology company delivering secure, scalable and AI-driven infrastructure solutions for modern businesses.
 
-Our core focus areas include:
+We specialize in designing intelligent systems that combine cloud architecture, cybersecurity and automation to streamline operations and enable growth.
+
+### Core Focus Areas
 
 - Cloud Infrastructure (AWS, Azure, Google Cloud)
-- Cybersecurity and Secure Architecture
+- Cybersecurity & Secure Architecture
 - AI-Powered Automation Systems
-- DevOps and Infrastructure as Code
-- Secure Web Platforms and Hosting
+- DevOps & Infrastructure as Code
+- Secure Web Platforms & Hosting
 
 ---
 
@@ -27,7 +29,7 @@ Our core focus areas include:
 
 - AI-Powered Business Automation Platforms  
 - Cloud-Native Infrastructure Templates  
-- DevSecOps and Security Automation  
+- DevSecOps & Security Automation  
 - Enterprise Deployment Pipelines  
 
 ---
@@ -38,21 +40,15 @@ We are open to collaboration on:
 
 - Cloud Infrastructure Projects  
 - DevOps Automation  
-- AI Systems and Integrations  
+- AI Systems & Integrations  
 - Cybersecurity Tooling  
+- Secure Enterprise Deployments  
 
 ---
 
 ## Areas of Expertise
 
-Cloud Architecture · AI Automation · Cybersecurity · DevOps · Secure Web Infrastructure
-
----
-
-## Contact
-
-Email: confluxprojects@gmail.com  
-Website: Coming Soon  
+Cloud Architecture · AI Automation · Cybersecurity · DevOps · Secure Web Infrastructure · Enterprise Cloud Security
 
 ---
 
@@ -95,8 +91,45 @@ Website: Coming Soon
 
 ---
 
+# Contact & Connect
+
+We welcome enterprise inquiries, partnerships and technical collaboration.
+
+### Direct Contact
+
+---
+
 ## Philosophy
 
 We automate what others manage manually.
 
 Secure. Scalable. Intelligent.
+
+---
+
+# Contact & Connect
+
+We welcome enterprise inquiries, partnerships and technical collaboration.
+
+<p align="center">
+  <strong>Email:</strong> confluxprojects@gmail.com<br>
+  <strong>Website:</strong> Coming Soon
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/conflux-projects" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/conflux-projects" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:confluxprojects@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
+
+
