@@ -6,16 +6,16 @@ Conflux Projects delivers secure, scalable, cloud-based IT and AI-powered soluti
 
 Our Core Services
 
-Professional Website Development
+• Professional Website Development
 
-Cloud Infrastructure Management (AWS | Azure | GCP)
+• Cloud Infrastructure Management (AWS | Azure | GCP)
 
-Cybersecurity & SOC-as-a-Service
+• Cybersecurity & SOC-as-a-Service
 
-AI Chatbots & Automation
+• AI Chatbots & Automation
 
-AI-Driven SEO & Marketing Automation
+• AI-Driven SEO & Marketing Automation
 
-Managed IT & Virtual Help Desk
+• Managed IT & Virtual Help Desk
 
-Secure Hosting & Disaster Recovery (DRaaS)
+• Secure Hosting & Disaster Recovery (DRaaS)
